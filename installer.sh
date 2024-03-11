@@ -1,4 +1,5 @@
 # update the ubuntu server
+# update the ubuntu server
 sudo apt-get update -y
 sudo apt-get upgrade -y
 
@@ -91,6 +92,3 @@ sudo ufw enable
 sudo ufw allow 8080
 
 sudo ufw status
-
-
-
